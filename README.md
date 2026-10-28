@@ -97,6 +97,11 @@ Make sure `index.html` is located in the selected publishing folder.
 
 **Frontend Technologies:** HTML, CSS, JavaScript
 
-**Repository:** Add your GitHub repository link here.
+**Repository:** 
 
-**Live Website:** Add your GitHub Pages link here.
+**Live Website:** 
+
+
+
+
+
